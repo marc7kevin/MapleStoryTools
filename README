@@ -6,7 +6,7 @@ press (key) (ms)
 wait (ms)
 combo (key) (key) (ms)
 (ms)為可選屬性(Optional)，若不設定則預設值是10~20
-ms可以是範圍值 ex:wait 1000-2000, press a 20-100
+(ms)也可以是範圍值 ex:wait 1000-2000, press a 20-100
 機率觸發框架:
 may (百分比)
 mayend
